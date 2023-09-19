@@ -23,9 +23,9 @@
             "button_label_1": "Show All Products",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": true,
-            "button_label_2": "Submit Test",
-            "button_link_2": "shopify:\/\/blogs\/news",
-            "button_style_secondary_2": true
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
